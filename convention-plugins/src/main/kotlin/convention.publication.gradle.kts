@@ -63,7 +63,7 @@ publishing {
         pom {
             name.set("DateTimePicker")
             description.set("Kotlin Multiplatform library")
-            //url.set("") todo
+            url.set("https://github.com/hmshohrab/DateTimePicker")
 
             licenses {
                 license {
@@ -73,13 +73,13 @@ publishing {
             }
             developers {
                 developer {
-                    //id.set("") todo
-                    //name.set("") todo
-                    //email.set("") todo
+                     id.set("hmshohrab")
+                    name.set("Mohammad Shohrab")
+                    email.set("hmshohrab200@gmail.com")
                 }
             }
             scm {
-                //url.set("") todo
+                 url.set("https://github.com/hmshohrab/DateTimePicker")
             }
         }
     }
